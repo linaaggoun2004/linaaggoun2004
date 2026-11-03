@@ -2,7 +2,7 @@
 
 # Hi, I'm Lina Aggoun 👋
 
-### Computer Engineering Student at ENSIT, Tunisia
+### Computer Engineering Student at ENSIT
 
 </div>
 
